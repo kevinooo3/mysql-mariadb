@@ -1,0 +1,5 @@
+1. Debemos descargar maria db desde google
+2. Descargamos todo next y al user root le asignamos una contraseña.
+3. El usuario root  es el user por defecto que inciara mariadb
+4. Para ejecutar mariadb debemo ir a inicio y escribir mariadb, le damos sql client mariadb 10.8 x64.
+5 Opcional si queremos correr comando mariadb en la terminal de windows , debemos ir a al lupa de inicio de windows y escribir "ver configuracion avanzada del sistema", despues a variables de entorno , en variables del sistema seleccionamos path y le damos a editar . agregamos la ruta C:\Program Files\MariaDB 10.8\bin.
